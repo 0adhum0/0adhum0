@@ -1,4 +1,1 @@
-## Hi there 👋
-
-# profile
-hello
+# Hi there 👋
